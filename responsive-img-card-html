@@ -1,0 +1,32 @@
+<div id="ficha-tabla"> 
+    <div class="w3-row" id="ficha-tabla-fila">   
+         <div class="w3-quarter" id="ficha">
+                <p>
+                <img src="img/socios/Pablo%20Rojas%20UPM%20MotoStudent%20Electric-300x300.jpg" class="img-circle" alt="Pablo Rojas">  
+                </p> 
+                <p>Pablo Rojas</p>    
+                <h4>Presidente</h4> 
+        </div>
+        <div class="w3-quarter" id="ficha">
+                <p>
+                <img src="img/socios/Pablo%20Esparza%20UPM%20MotoStudent%20Electric-300x300.jpg" class="img-circle" alt="Pablo Esparza">  
+                </p> 
+                <p>Pablo Esparza</p>    
+                <h4>V.presidente</h4> 
+        </div>
+        <div class="w3-quarter" id="ficha">
+                <p>
+                <img src="img/socios/Mat%C3%ADas%20Mecco%20UPM%20MotoStudent%20Electric-300x300.jpg" class="img-circle" alt="Matías Mecco">  
+                </p> 
+                <p>Matías Mecco</p>    
+                <h4>Tesorero</h4> 
+        </div>      
+        <div class="w3-quarter" id="ficha">
+                <p>
+                <img src="img/socios/Luc%C3%ADa%20Le%C3%B3n%20UPM%20MotoStudent%20Electric-300x300.jpg" class="img-circle" alt="Lucía León">  
+                </p> 
+                <p>Lucía León</p>    
+                <h4>Secretaria</h4> 
+        </div> 
+    </div>                               
+</div>
