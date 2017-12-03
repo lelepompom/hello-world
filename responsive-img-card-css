@@ -1,0 +1,47 @@
+#ficha-tabla {
+    display: table;
+    width: 100%;
+    margin-top: 15px;
+}
+
+#ficha-tabla-fila {
+    display: table-row;
+    width: 100%;
+}
+
+#ficha {
+        display: table-cell; 
+        vertical-align: middle;
+}
+
+
+#ficha-mini-tabla {
+
+    display: table;
+    vertical-align: middle;
+}
+
+#ficha img {
+    width: 75%;
+}
+
+
+#ficha p {
+    font-family: lato;
+    font-variant: small-caps;
+    text-align: center;
+    font-size: 10pt;
+    font-weight: 700;
+    padding-top: 10px;
+    margin-bottom: inherit;
+}
+
+#ficha h4 {
+    font-family: lato;
+    text-align: center;
+    font-size: 14pt;
+    font-weight: 400;
+    margin-top: inherit;
+
+}
+
